@@ -1,1 +1,0 @@
-# Malaria-Infected-Cell-Classification
