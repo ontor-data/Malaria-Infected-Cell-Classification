@@ -14,7 +14,7 @@ While being a generally black box approach, with modern techniques, deep learnin
 2. Built a simple application using streamlit to classify a given image and highlight the hotspots in the image that influence the prediction
     - The hotspots has been overlayed on the image and displayed in the streamlit app
     - Included a video demo of the app using a screen recorder
-    - Bonus: deployed the streamlit app on a cloud platform (eg: heroku)
+    
 
 3. Detailed approach and findings from the dataset in a 2-4 page technical report using a prefered format. Provided the necessary details to rationalize assumptions and choice of methods.
 
